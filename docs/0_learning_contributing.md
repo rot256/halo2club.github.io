@@ -1,6 +1,10 @@
 # 0. learning and contributing
 *a living archive of beginner-friendly resources and tutorials; developer communities; and ways to contribute to the project.*
 ## learning resources
+- the [ZKS/Zircuit Halo Hero](https://halo2.zksecurity.xyz/) is a comprehensive course on Halo2 circuit development:
+    - all example code is runnable
+    - assumes no prior knowledge of zkSNARKs or Halo2
+    - covers even advanced topics like lookups over advice columns and challenges.
 - the [halo2 book](https://github.com/zcash/halo2) is the canonical guide to the original `zcash/halo2`, including:
     - a description of circuit-level abstractions, such as chips and FloorPlanners;
     - a description of the protocol and underlying primitives; and
